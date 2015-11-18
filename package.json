@@ -1,0 +1,26 @@
+{
+  "name": "learn-nodejs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattMcFarland/learn-nodejs.git"
+  },
+  "author": "Matt McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattMcFarland/learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/MattMcFarland/learn-nodejs#readme",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+  "react": "^0.14.2"
+}
+}
